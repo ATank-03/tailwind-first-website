@@ -10,3 +10,8 @@ anyways, I'm pretty proud of it
 
 - download the files
 - double click on the ```index.html``` file, the website should open in your default browser
+
+
+## Sample of the website
+
+![Alt text](./websiteScreenshot.png)
